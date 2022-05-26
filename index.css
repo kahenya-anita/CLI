@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat",sans-serif;
+    background: url(https://res.cloudinary.com/drcrre4xg/image/upload/v1578584481/bg_mcnuhk.jpg) center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .text{
+    font-size: 8em;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff;
+    mask-image: url(https://res.cloudinary.com/drcrre4xg/image/upload/v1578584486/mask_hphgdl.png);
+    -webkit-mask-image: url(https://res.cloudinary.com/drcrre4xg/image/upload/v1578584486/mask_hphgdl.png);
+  }
+  
